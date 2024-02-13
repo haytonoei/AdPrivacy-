@@ -19,3 +19,5 @@ other things I'm following:
 8. Google Privacy Sandbox
 9. on-device optimization
 
+Useful links: 
+https://github.com/w3c/web-advertising#ideas-and-proposals-links-outside-this-repo
