@@ -1,5 +1,5 @@
 # AdPrivacy-
-interesting tech that is privacy compliant and allow advertisers to still collect &amp; analyze useful data
+interesting tech that is privacy compliant and allow advertisers to still analyze useful data
 
 problem: apple and government entities are contributing to an evolving privacy landscape. How can tech platforms evolve their advertising solutions to still serve advertisers? 
 
