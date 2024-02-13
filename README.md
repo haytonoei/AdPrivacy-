@@ -20,4 +20,5 @@ other things I'm following:
 9. on-device optimization
 
 other proposals: 
+
 https://github.com/w3c/web-advertising#ideas-and-proposals-links-outside-this-repo
