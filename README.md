@@ -1,7 +1,7 @@
 # AdPrivacy-
 interesting tech that is privacy compliant and allow advertisers to still collect &amp; analyze useful data
 
-problem: apple and government entites are contributing to an evolving privacy landscape. How can tech platforms evolve their advertising solutions to still serve advertisers? 
+problem: apple and government entities are contributing to an evolving privacy landscape. How can tech platforms evolve their advertising solutions to still serve advertisers? 
 
 solutions:
 1. Clean room (LiveRamp, Habu) aggregated insights. Use cases: Uber, Booking.com, Expedia 
